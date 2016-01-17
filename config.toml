@@ -1,0 +1,19 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Unconfortable zone"
+theme = "greyshade"
+
+[author]
+name = "Masato Sogame"
+email = "poketo7878@gmail.com"
+
+[params]
+description = "Unconfortable zone"
+
+#Social links
+twitter_user = "Hannibal7878"
+github_user = "Pocket7878"
+
+# share links
+facebook_like = true
+twitter_tweet_button = true
